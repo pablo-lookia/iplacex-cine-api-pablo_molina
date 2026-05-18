@@ -1,1 +1,1 @@
-# iplacex-cine-api-pablo_molina
+API REST Express para administración de películas favoritas de empleados de IPLACEX
